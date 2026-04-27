@@ -17,6 +17,7 @@ En curso: React.js, Node.js, Express y MongoDB
 
 📂 Proyectos destacados
 
+
 🔹 Proyecto 1 – [Alrededor de los EE. UU.]
 Repositorio: https://jocelineviesca-boop.github.io/web_project_around_es/
 
@@ -31,6 +32,7 @@ Manejo de solicitudes asíncronas (Fetch API) para persistencia de datos.
 Validación dinámica de formularios para mejorar la experiencia de usuario.
 
 Organización de código modular bajo estándares profesionales.
+
 
 🔹 Proyecto 2 – [Homeland / Proyecto Web]
 Repositorio: https://jocelineviesca-boop.github.io/web_project_homeland/
@@ -56,7 +58,9 @@ Atención al detalle: Rigurosidad adquirida en la gestión de procesos de factur
 
 Adaptabilidad: Capacidad para equilibrar un rol profesional exigente con el aprendizaje intensivo de nuevas tecnologías.
 
+
 📫 Contacto
+
 LinkedIn: www.linkedin.com/in/joceline-viesca
 
 Email: jocelineviesca@gmail.com
