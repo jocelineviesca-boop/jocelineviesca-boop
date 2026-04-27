@@ -1,4 +1,5 @@
 !Hola, soy Joceline Viesca! 🌸🌸🌸🌸
+
 Desarrolladora Web Full Stack en formación | Economista | Bootcamp TripleTen
 
 Soy una profesional con una formación sólida en Economía, lo que me ha permitido desarrollar una mentalidad analítica y estratégica. Actualmente, me desempeño en el área de facturación en Total Pass, gestionando datos críticos de salud y bienestar.
